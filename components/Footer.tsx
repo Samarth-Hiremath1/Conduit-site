@@ -27,7 +27,7 @@ export function Footer() {
         {/* Links */}
         <div className="flex items-center gap-6 text-sm">
           <a
-            href="mailto:hello@conduit.so"
+            href="mailto:samhiremath@ucdavis.edu"
             className="text-slate-500 hover:text-emerald-400 transition-colors"
           >
             Contact

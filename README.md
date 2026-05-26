@@ -51,4 +51,3 @@ conduit-site/
 ## Contact
 
 samhiremath@ucdavis.edu
-hello@conduit.so
